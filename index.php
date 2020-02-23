@@ -22,7 +22,7 @@
     <link href="build/css/custom.min.css" rel="stylesheet">
   </head>
   <?php 
-  // Test //
+  // Test Deneme //
 include_once("selfyazilim.php");
 $ciktimesaj="";
 if(@$_POST)
